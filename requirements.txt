@@ -1,0 +1,17 @@
+torch
+transformers
+sentencepiece
+ctranslate2
+vosk
+sounddevice
+numpy
+scipy
+librosa
+matplotlib
+langchain
+langchain-community
+langchain-openai
+langchain-core
+tqdm
+soundfile
+protobuf
